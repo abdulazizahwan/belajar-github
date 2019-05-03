@@ -4,3 +4,5 @@ Playlist
 - Setup Flutter on Visual Studio Code
 - Setup Flutter on Android Studio
 - Setup Flutter on IntelliJ IDEA
+- Build a First Flutter App
+- Understanding the Structure of Flutter App
